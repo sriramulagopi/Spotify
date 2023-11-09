@@ -8,7 +8,7 @@
     display: flex; 
     flex-direction: row;
     width: 100vw;
-    height: 92vh;
+    height: 99vh;
 }
 #navbar{
     display: flex;
@@ -159,7 +159,7 @@ ul>li>a{
 #playlist{
     display: flex;
     align-items: center;
-    position: sticky;
+    position: fixed;
     justify-content: space-between;
     left: 0px;
     bottom: 0px;
